@@ -16,7 +16,7 @@ py==1.5.4
 python-dateutil==2.6.0
 requests==2.20.1
 requests-oauthlib==1.0.0
-rsa==4.0
+rsa==4.7
 s3transfer==0.1.13
 Werkzeug==0.14.1
 redis==2.10.6
